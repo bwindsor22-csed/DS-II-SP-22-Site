@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ds-ii-sp-22-site/static/css/main.219383e8.css",
-    "main.js": "/ds-ii-sp-22-site/static/js/main.b3f881b7.js",
-    "static/js/787.3ba5e41c.chunk.js": "/ds-ii-sp-22-site/static/js/787.3ba5e41c.chunk.js",
-    "static/media/blueprint-icons-20.eot?": "/ds-ii-sp-22-site/static/media/blueprint-icons-20.7c675118c62235e8ba85.eot",
-    "static/media/blueprint-icons-20.ttf?": "/ds-ii-sp-22-site/static/media/blueprint-icons-20.58cecdd9d530e9748708.ttf",
-    "static/media/blueprint-icons-16.eot?": "/ds-ii-sp-22-site/static/media/blueprint-icons-16.eeaaf48f3aa9749d8399.eot",
-    "static/media/blueprint-icons-16.ttf?": "/ds-ii-sp-22-site/static/media/blueprint-icons-16.8dad11908ed3e5e9e47a.ttf",
-    "static/media/blueprint-icons-20.woff?": "/ds-ii-sp-22-site/static/media/blueprint-icons-20.37c48d148164e6a1b9b1.woff",
-    "static/media/blueprint-icons-16.woff?": "/ds-ii-sp-22-site/static/media/blueprint-icons-16.bdd01e08b240fc397e5a.woff",
-    "static/media/blueprint-icons-20.woff2?": "/ds-ii-sp-22-site/static/media/blueprint-icons-20.16fbb3eddfb5d29019ae.woff2",
-    "static/media/blueprint-icons-16.woff2?": "/ds-ii-sp-22-site/static/media/blueprint-icons-16.d59af1d43e67354fabe4.woff2",
-    "index.html": "/ds-ii-sp-22-site/index.html",
-    "main.219383e8.css.map": "/ds-ii-sp-22-site/static/css/main.219383e8.css.map",
-    "main.b3f881b7.js.map": "/ds-ii-sp-22-site/static/js/main.b3f881b7.js.map",
-    "787.3ba5e41c.chunk.js.map": "/ds-ii-sp-22-site/static/js/787.3ba5e41c.chunk.js.map"
+    "main.css": "/DS-II-SP-22-Site/static/css/main.357fdbb2.css",
+    "main.js": "/DS-II-SP-22-Site/static/js/main.f65c56b2.js",
+    "static/js/787.3ba5e41c.chunk.js": "/DS-II-SP-22-Site/static/js/787.3ba5e41c.chunk.js",
+    "static/media/blueprint-icons-20.eot?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.7c675118c62235e8ba85.eot",
+    "static/media/blueprint-icons-20.ttf?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.58cecdd9d530e9748708.ttf",
+    "static/media/blueprint-icons-16.eot?": "/DS-II-SP-22-Site/static/media/blueprint-icons-16.eeaaf48f3aa9749d8399.eot",
+    "static/media/blueprint-icons-16.ttf?": "/DS-II-SP-22-Site/static/media/blueprint-icons-16.8dad11908ed3e5e9e47a.ttf",
+    "static/media/blueprint-icons-20.woff?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.37c48d148164e6a1b9b1.woff",
+    "static/media/blueprint-icons-16.woff?": "/DS-II-SP-22-Site/static/media/blueprint-icons-16.bdd01e08b240fc397e5a.woff",
+    "static/media/blueprint-icons-20.woff2?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.16fbb3eddfb5d29019ae.woff2",
+    "static/media/blueprint-icons-16.woff2?": "/DS-II-SP-22-Site/static/media/blueprint-icons-16.d59af1d43e67354fabe4.woff2",
+    "index.html": "/DS-II-SP-22-Site/index.html",
+    "main.357fdbb2.css.map": "/DS-II-SP-22-Site/static/css/main.357fdbb2.css.map",
+    "main.f65c56b2.js.map": "/DS-II-SP-22-Site/static/js/main.f65c56b2.js.map",
+    "787.3ba5e41c.chunk.js.map": "/DS-II-SP-22-Site/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.219383e8.css",
-    "static/js/main.b3f881b7.js"
+    "static/css/main.357fdbb2.css",
+    "static/js/main.f65c56b2.js"
   ]
 }
