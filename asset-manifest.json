@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DS-II-SP-22-Site/static/css/main.357fdbb2.css",
-    "main.js": "/DS-II-SP-22-Site/static/js/main.f65c56b2.js",
+    "main.js": "/DS-II-SP-22-Site/static/js/main.f96a4c89.js",
     "static/js/787.3ba5e41c.chunk.js": "/DS-II-SP-22-Site/static/js/787.3ba5e41c.chunk.js",
     "static/media/blueprint-icons-20.eot?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.7c675118c62235e8ba85.eot",
     "static/media/blueprint-icons-20.ttf?": "/DS-II-SP-22-Site/static/media/blueprint-icons-20.58cecdd9d530e9748708.ttf",
@@ -13,11 +13,11 @@
     "static/media/blueprint-icons-16.woff2?": "/DS-II-SP-22-Site/static/media/blueprint-icons-16.d59af1d43e67354fabe4.woff2",
     "index.html": "/DS-II-SP-22-Site/index.html",
     "main.357fdbb2.css.map": "/DS-II-SP-22-Site/static/css/main.357fdbb2.css.map",
-    "main.f65c56b2.js.map": "/DS-II-SP-22-Site/static/js/main.f65c56b2.js.map",
+    "main.f96a4c89.js.map": "/DS-II-SP-22-Site/static/js/main.f96a4c89.js.map",
     "787.3ba5e41c.chunk.js.map": "/DS-II-SP-22-Site/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.357fdbb2.css",
-    "static/js/main.f65c56b2.js"
+    "static/js/main.f96a4c89.js"
   ]
 }
