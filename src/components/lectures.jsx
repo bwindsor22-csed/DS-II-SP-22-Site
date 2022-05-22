@@ -16,5 +16,15 @@ export default () => {
             Other Trees, Intro to Graphs</a></p>
         <p><a href="https://docs.google.com/presentation/d/1ncdcantjsLjF3mHC90J0W_Aj0h77cTWD/edit?usp=sharing&ouid=110578576214743957709&rtpof=true&sd=true">
             Graph Representations, Object Mapper, Streams</a></p>
+        <p><a href="https://docs.google.com/presentation/d/1PjWxkp9bf2QOZ24XKMN6eMXsYM9blh47CW2Wln8R-OQ/edit?usp=sharing">
+            Minimax, Dynamic Programming, Regex, Servers</a></p>
+        <p><a href="https://gist.github.com/bwindsor22/5a68ea8f34b5a6b5c4752307e700f029">
+            Code: Tribonacci </a></p>
+        <p><a href="https://docs.google.com/presentation/d/1VWD0mF4xwwrCsqeQ7DTEE8oBXUAFGC5LCEF64xKjdT8/edit?usp=sharing">
+            Threads</a></p>
+        <p><a href="https://docs.google.com/presentation/d/19SZE3dFBzFzbZPX7uarzL9-g6HGfxuO5PgDp7OV5PME/edit?usp=sharing">
+            Intro to NLP</a></p>
+        <p><a href="https://gist.github.com/bwindsor22/7281bc056e9adf51c12dda5a4590c82a">
+            Code: Simple Sentiment analysis </a></p>
     </div>
 }

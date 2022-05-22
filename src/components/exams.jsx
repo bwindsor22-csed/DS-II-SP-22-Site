@@ -6,5 +6,7 @@ export default () => {
             </a></p>
         <p><a href="https://github.com/bwindsor22/DS-II-Midterm-Review">
             Midterm Review</a></p>
+        <p><a href="https://github.com/bwindsor22/DS-II-Final-Review/blob/master/final-review.md">
+            Final Review</a></p>
     </div>
 }
